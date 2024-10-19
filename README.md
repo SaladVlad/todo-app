@@ -39,7 +39,7 @@ To run the project locally, follow these steps.
     ```
 2. Navigate to the project directory:
     ```bash
-    cd your-todo-app
+    cd todo-app
     ```
 3. Install the dependencies:
     ```bash
